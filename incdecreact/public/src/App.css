@@ -1,0 +1,18 @@
+.mainclass{
+  margin-top: 100px;
+}
+
+.betweenbutton{
+  margin-left:42%;
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  margin-left: 10px;
+}
+.h1tag{
+  margin-left: 680px;
+  top: 180px;
+}
+
